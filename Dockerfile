@@ -1,6 +1,6 @@
 #install OS
 #FROM centos
-nsioo/base-java:latest
+FROM nsioo/base-java:latest
 #install java
 #RUN yum install -y java
 
